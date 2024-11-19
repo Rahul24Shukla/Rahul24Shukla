@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Rahul24Shukla
+- 👋 Author:- Rahul Shukla
+- Hi, I’m @Rahul24Shukla
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning MySQL & NoSQL
+- 🌱 I’m currently learning Artificial Intelligence & Machine learning
 - 💞️ I’m looking to collaborate on github & public.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
